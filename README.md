@@ -1,70 +1,49 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Taha Goreli&label=Profile%20views&color=373737&style=flat-square" />
+
+# <img src="https://i.pinimg.com/originals/f0/79/b7/f079b7480336d4287c653d1f490c983f.gif" width="50px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+TAHA"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=191717">
 
 <div align="center">
-  <img 
-    align="center" 
-    width="100%" 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Hi,+I'm+Taha."
-  >
+
+⭐️ From [@Taha Goreli](https://github.com/TahaGoreli)
+<img width="30%" align="right" src="https://github.com/luluwux/luluwux/assets/87658293/8f3da7f1-62e0-4014-a759-5abc9074c005">
+<div align="left" width="100%">
+
+
+<p align="center">
+ <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/luluwux" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/luluwux/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+
+## About Me
+
+<samp>
+• Let me introduce myself, I'm Alp. I am 19 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
+
+• You Should Come By [Here](https://discord.gg/luppux) <br />
+• My [Website](https://www.lulushu.live/)
+
+</samp>
+
+## Technologies I use
+
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,tailwind&theme=dark&perline=10">
+
+## My Stats
+
+<img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
+
+<br />
+
+<div align="center" width="100%">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+
+<h2 align="left" > I'm Listening Right Now </h2>
+
+<div>
+ <img width="50%" align="left" src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=elite&logo=false"/>
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
 </div>
 
----
-<div align="center">
 
-⭐️ From [@Taha Göreli](https://github.com/AbdulkerimCanBRY)
-
-### 👨‍💻 About Me
-
-
-
----
-
-### 🌐 Connect with Me
-
-
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
-  <img src="https://img.shields.io/badge/Blender-E87300?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha Göreli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-### 🎧 I'm Listening Right Now
-
-### 🔥 My GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taha Goreli&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-<!--
-**TahaGoreli/TahaGoreli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
