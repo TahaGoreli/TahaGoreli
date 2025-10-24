@@ -10,18 +10,14 @@
 
 <p align="center">
  <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/luluwux" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/luluwux/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+  <a href="https://github.com/TahaGoreli" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.spotify.com/tr-tr/account/overview/" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/tahagoreli/?e=f853f7a7-4176-4848-8fbd-862f0c40a45a&g=5" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 ## About Me
 
 <samp>
-• Let me introduce myself, I'm Alp. I am 19 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
-
-• You Should Come By [Here](https://discord.gg/luppux) <br />
-• My [Website](https://www.lulushu.live/)
-
+.I AM TAHA
 </samp>
 
 ## Technologies I use
@@ -30,20 +26,20 @@
 
 ## My Stats
 
-<img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
+<img width="30%" align="left" src="https://i.pinimg.com/1200x/1f/3f/d6/1f3fd6a1a0999f4a5a9a13bc1d5f2d0f.jpg">
 
 <br />
 
 <div align="center" width="100%">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+<img width="40%" src="">
+<img width="40%" src="">
 
 <h2 align="left" > I'm Listening Right Now </h2>
 
 <div>
  <img width="50%" align="left" src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=elite&logo=false"/>
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
+<img  align="right" width="40%" src="https://i.pinimg.com/1200x/92/eb/11/92eb11c34957aa23733582a46c530ce4.jpg"> 
 </div>
 
 
