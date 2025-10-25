@@ -4,7 +4,7 @@
 <div align="center">
 
 ⭐️ From [@Taha Goreli](https://github.com/TahaGoreli)
-<img width="30%" align="right" src="https://github.com/luluwux/luluwux/assets/87658293/8f3da7f1-62e0-4014-a759-5abc9074c005">
+<img width="30%" align="right" src="file:///C:/Users/EXCALIBUR/Downloads/b845f484-b116-4247-b60e-263450d7b5cf.jpg">
 <div align="left" width="100%">
 
 
@@ -17,12 +17,12 @@
 ## About Me
 
 <samp>
-.I AM TAHA
+I AM TAHA
 </samp>
 
 ## Technologies I use
 
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,tailwind&theme=dark&perline=10">
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,,mysql,express,linux,tailwind&theme=dark&perline=10">
 
 ## My Stats
 
@@ -34,11 +34,7 @@
 
 
 
-<h2 align="left" > I'm Listening Right Now </h2>
 
-<div>
- <img width="50%" align="left" src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=elite&logo=false"/>
-<img  align="right" width="40%" src="https://i.pinimg.com/1200x/92/eb/11/92eb11c34957aa23733582a46c530ce4.jpg"> 
-</div>
+
 
 
