@@ -32,8 +32,7 @@
 
 <div align="center" width="100%">
 
-<img width="40%" src="">
-<img width="40%" src="">
+
 
 <h2 align="left" > I'm Listening Right Now </h2>
 
