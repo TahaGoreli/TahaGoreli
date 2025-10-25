@@ -4,7 +4,7 @@
 <div align="center">
 
 ⭐️ From [@Taha Goreli](https://github.com/TahaGoreli)
-<img width="30%" align="right" src="file:///C:/Users/EXCALIBUR/Downloads/b845f484-b116-4247-b60e-263450d7b5cf.jpg">
+<img width="30%" align="right" src="https://i.pinimg.com/1200x/46/9b/3e/469b3eff1c09c78b0c6b0c2de7ca5598.jpg">
 <div align="left" width="100%">
 
 
