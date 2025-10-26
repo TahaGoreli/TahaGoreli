@@ -17,16 +17,14 @@
 ## About Me
 
 <samp>
-I AM TAHA
+Hello, I'm Taha, a 17-year-old Software Engineering first-year student.
 </samp>
 
 ## Technologies I use
 
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,,mysql,express,linux,tailwind&theme=dark&perline=10">
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,mysql,linux,tailwind&theme=dark&perline=10">
 
-## My Stats
 
-<img width="30%" align="left" src="https://i.pinimg.com/1200x/1f/3f/d6/1f3fd6a1a0999f4a5a9a13bc1d5f2d0f.jpg">
 
 <br />
 
