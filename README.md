@@ -4,12 +4,9 @@
 <div align="center">
 
 ⭐️ From [@Taha Goreli](https://github.com/TahaGoreli)
-<img width="30%" align="right" src="https://i.pinimg.com/1200x/46/9b/3e/469b3eff1c09c78b0c6b0c2de7ca5598.jpg">
-<div align="left" width="100%">
 
 
 <p align="center">
- <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/TahaGoreli" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31edqpflvxxb7sngthuwkjxfnl2e?si=5780e2914a47474e" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/tahagoreli/?e=f853f7a7-4176-4848-8fbd-862f0c40a45a&g=5" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
@@ -24,12 +21,7 @@ Hello, I'm Taha, a 17-year-old Software Engineering first-year student.
 
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,mysql,linux,tailwind&theme=dark&perline=10">
 
-
-
-<br />
-
 <div align="center" width="100%">
-
 
 
 
